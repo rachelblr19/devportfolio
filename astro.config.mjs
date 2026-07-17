@@ -9,4 +9,4 @@ base: "/{forked_repo_name}/",
 vite: {
 plugins: [tailwindcss()],
 },
-});
+}); 
