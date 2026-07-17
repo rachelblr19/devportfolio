@@ -46,7 +46,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Technology Student Association: Sergeant at Arm Habitat For Humanity: Treasurer",
+      company: "Technology Student Association: Sergeant at Arm --- Habitat For Humanity: Treasurer",
       title: "LEADERSHIP",
       dateRange: "2025  2026",
       bullets: [
