@@ -50,9 +50,9 @@ export const siteConfig = {
       title: "LEADERSHIP",
       dateRange: "2025  2026",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Led club activities and organized events.",
+        "Supported teamwork and member collaboration.",
+        "Took initiative to solve problems and drive projects.",
       ],
     },
     {
