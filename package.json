@@ -1,3 +1,5 @@
+
+
 {
   "name": "devportfolio",
   "type": "module",
@@ -14,3 +16,4 @@
     "tailwindcss": "^4.1.11"
   }
 }
+
